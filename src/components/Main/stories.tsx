@@ -5,8 +5,8 @@ export default {
   title: 'Main',
   component: Main,
   args: {
-    title: 'React Avançado Default',
-    description: 'Typescript, ReactJS, NextJS e Styled Components Default'
+    title: 'React Avançado É AQUI',
+    description: 'Typescript, ReactJS, NextJS e Styled Components É AQUI'
   }
 } as ComponentMeta<typeof Main>
 
